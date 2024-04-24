@@ -1,1 +1,1 @@
-This Circuit is Fuse-Protected and MC34063 IC based Charger Module .
+. Actually the MC34063 is the heart of many products that today need a DC-DC converter, that is, a direct voltage converter. 
