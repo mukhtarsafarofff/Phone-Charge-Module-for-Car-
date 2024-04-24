@@ -11,6 +11,7 @@ Der verwendete Chip ist im Grunde das Herzstück eines Schaltnetzteils (oder Sch
 
 Die Schaltung zeigt die Konfiguration des MC34063 als Abwärtswandler, und in dieser Konfiguration wird die Ausgangsspannung durch die folgende Formel bestimmt:
 Vout = 1,25 * (1 + R2 / R1)
+In unserem Fall beträgt R2 = 3,6 k und R1 = 1,2 k, sodass Vout uns genau 5 Volt liefert! Um unseren Schaltkreis in ein USB-Ladegerät zu verwandeln, genügt es, einen USB-Anschluss am Ausgang anzuschließen, indem Sie die Kabel mit der korrekten Pinbelegung verlöten.
 
 
 
