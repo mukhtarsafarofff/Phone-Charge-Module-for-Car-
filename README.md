@@ -5,5 +5,4 @@ The circuit shows the MC34063 configuration as a step-down regulator and in this
 Vout = 1.25 * (1 + R2 / R1)
 In our case R2 = 3.6k and R1 = 1.2K so Vout gives us exactly 5 Volts! To transform our circuit into a USB charger, simply connect a USB terminal to the output by soldering the cables with the correct pinout. 
 
-
-
+Tatsächlich ist der MC34063 das Herzstück vieler Produkte, die heute einen DC-DC-Wandler benötigen, also einen Gleichspannungswandler. 
