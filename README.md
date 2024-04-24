@@ -9,7 +9,10 @@ Tatsächlich ist der MC34063 das Herzstück vieler Produkte, die heute einen DC-
 
 Der verwendete Chip ist im Grunde das Herzstück eines Schaltnetzteils (oder Schaltreglers). Das heißt, er ist ein Oszillator, der die Eingangsspannung entsprechend dem benötigten Ausgangsspannungswert zerkleinert (oder in Portionen teilt).
 
-Die Schaltung zeigt die Konfiguration des MC34063 als Abwärtswandler, und in dieser 
+Die Schaltung zeigt die Konfiguration des MC34063 als Abwärtswandler, und in dieser Konfiguration wird die Ausgangsspannung durch die folgende Formel bestimmt:
+Vout = 1,25 * (1 + R2 / R1)
+
+
 
 
 
