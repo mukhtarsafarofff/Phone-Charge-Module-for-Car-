@@ -1,1 +1,1 @@
-. Actually the MC34063 is the heart of many products that today need a DC-DC converter, that is, a direct voltage converter. The MC34063 is an extremely versatile electronic component that has gained wide acceptance in the electronics world. 
+. Actually the MC34063 is the heart of many products that today need a DC-DC converter, that is, a direct voltage converter. The MC34063 is an extremely versatile electronic component that has gained wide acceptance in the electronics world. Its versatility is accompanied by a very convenient price which is an interesting combination.
