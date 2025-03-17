@@ -7,7 +7,10 @@ In our case R2 = 3.6k and R1 = 1.2K so Vout gives us exactly 5 Volts! To transfo
 (DEU)  Tatsächlich ist der MC34063 das Herzstück vieler Produkte, die heute einen DC-DC-Wandler benötigen, also einen Gleichspannungswandler. Der MC34063 ist eine äußerst vielseitige elektronische Komponente, die in der Elektronikwelt weit verbreitet und akzeptiert ist. Seine Vielseitigkeit ist mit einem sehr günstigen Preis verbunden, was eine interessante Kombination darstellt.  Es handelt sich um einen Schaltregler, der im Gegensatz zu linearen Reglern (wie dem LM7805) nicht viel Wärme abgibt. In meinem Fall benötigt mein Telefon ein Ladegerät mit 5 VDC, also der gleichen Spannung, die ein USB-Port liefert. Deshalb wurde mein fehlerhafter Ladegerätkreis so entworfen, dass er eine solche Spannung bei einem Strom von 500 mA liefert.  Mit einigen Änderungen können wir den Schaltkreis, den ich später besprechen werde, anpassen, um verschiedene Spannungen zu liefern. With a few changes we can adapt the circuit I will discuss later to provide different voltages.
 The chip used is basically the heart of a switched power supply (or switching regulator).
 
-Der verwendete Chip ist im Grunde das Herzstück eines Schaltnetzteils (oder Schaltreglers). 
+Der verwendete Chip ist im Grunde das Herzstück eines Schaltnetzteils (oder Schaltreglers).Das heißt, er ist ein Oszillator, der die Eingangsspannung entsprechend dem benötigten Ausgangsspannungswert zerkleinert (oder in Portionen teilt).
+
+
+
 
 
 
