@@ -9,6 +9,7 @@ The chip used is basically the heart of a switched power supply (or switching re
 
 Der verwendete Chip ist im Grunde das Herzstück eines Schaltnetzteils (oder Schaltreglers).Das heißt, er ist ein Oszillator, der die Eingangsspannung entsprechend dem benötigten Ausgangsspannungswert zerkleinert (oder in Portionen teilt).Die Schaltung zeigt die Konfiguration des MC34063 als Abwärtswandler, und in dieser Konfiguration wird die Ausgangsspannung durch die folgende Formel bestimmt:
 Vout = 1,25 * (1 + R2 / R1)
+In unserem Fall beträgt R2 = 3,6 k und R1 = 1,2 k,
 
 
 
